@@ -1,5 +1,5 @@
 # Digit Recognizer Using Convolutional Neural Networks
-In this notebook, we will identify digits from a dataset of tens of thousands of handwritten images, by utilizing convolutional neural networks (CNN). [MNIST handwritten digit dataset](https://www.kaggle.com/c/digit-recognizer/data) is used to train and test the CNN model.
+In this notebook, we will identify digits from a dataset of tens of thousands of handwritten images, by utilizing convolutional neural networks (CNN). [**MNIST handwritten digit dataset**](https://www.kaggle.com/c/digit-recognizer/data) is used to train and test the CNN model.
 
 We break this notebook into separate steps.  
 
